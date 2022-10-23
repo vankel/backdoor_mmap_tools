@@ -1,15 +1,15 @@
 [submodule "libdiagexploit"]
 	path = libdiagexploit
-	url = git://github.com/android-rooting-tools/libdiagexploit.git
+	url = https://github.com/android-rooting-tools/libdiagexploit.git
 [submodule "device_database"]
 	path = device_database
-	url = git://github.com/android-rooting-tools/android_device_database.git
+	url = https://github.com/android-rooting-tools/android_device_database.git
 [submodule "libperf_event_exploit"]
 	path = libperf_event_exploit
-	url = git://github.com/android-rooting-tools/libperf_event_exploit.git
+	url = https://github.com/android-rooting-tools/libperf_event_exploit.git
 [submodule "libmsm_acdb_exploit"]
 	path = libmsm_acdb_exploit
-	url = git://github.com/fi01/libmsm_acdb_exploit.git
+	url = https://github.com/fi01/libmsm_acdb_exploit.git
 [submodule "libfj_hdcp_exploit"]
 	path = libfj_hdcp_exploit
 	url = https://github.com/android-rooting-tools/libfj_hdcp_exploit.git
